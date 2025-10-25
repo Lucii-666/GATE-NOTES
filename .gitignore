@@ -1,0 +1,17 @@
+# Ignore common editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Node
+node_modules/
+
+# Logs
+*.log
+
+# Avoid accidentally ignoring the NOTES PDFs unless you want them ignored
+# (they are currently tracked by default)
